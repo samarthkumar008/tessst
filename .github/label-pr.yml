@@ -1,0 +1,6 @@
+- regExp: ".+\\.ts+$"
+  labels: ["typescript"]
+- regExp: ".+\\.sql+$"
+  labels: ["database", "critical"]
+- regExp: ".+\\.md+$"
+  labels: ["documentation"]
