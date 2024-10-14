@@ -1,2 +1,1 @@
-bug:
-  - '(critical|urgent)'
+docs: docs/*
