@@ -1,4 +1,4 @@
-name: Add Label to Issue
+name: Add Label into Issue
 
 on: [pull_request]
 
